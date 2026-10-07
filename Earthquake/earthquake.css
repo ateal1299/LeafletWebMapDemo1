@@ -10,15 +10,15 @@ body {
    .legend {
         background: white;
         padding: 10px;
-        line-heigh: 20px;
+        line-height: 20px;
         border-radius: 5px;
    }
 
    .legend I {
         width: 18px;
-        heigh: 18px;
+        height: 18px;
         float: left;
         margin-right: 8px;
         opacity: 0.8;
-        
+
    }
