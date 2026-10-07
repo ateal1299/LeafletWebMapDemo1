@@ -11,3 +11,4 @@ A map showing earthquake data and seismic risk pattern. Earthquakes are displaye
 <https://ateal1299.github.io/LeafletWebMapDemo1/Earthquake/>
 ## Combined Map
 A map showing both earthquake data and severe weather alerts from above maps, but now included on one map. This map allows for you to toggle between the maps from the box in the upper right. 
+<https://ateal1299.github.io/LeafletWebMapDemo1/Combined/>
